@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = springerjonasethan@gmail.com
+	name = Jonas Ethan Springer
